@@ -1,0 +1,8 @@
+Fever,Cough,Throat_Pain,Body_Pain,Covid19
+N,Y,Y,Y,Positive
+Y,Y,Y,Y,Positive
+Y,N,Y,Y,Positive
+N,Y,N,N,Negative
+Y,Y,Y,N,Positive
+N,N,N,Y,Negative
+N,N,N,N,Negative
